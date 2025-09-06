@@ -5,5 +5,3 @@ matplotlib
 seaborn
 flask
 pymongo
-
-# -e .
